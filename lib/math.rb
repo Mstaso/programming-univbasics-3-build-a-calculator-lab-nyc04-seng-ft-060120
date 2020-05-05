@@ -1,5 +1,5 @@
 def addition(num1, num2)
-match.addition #{num1} + #{num2}
+math.addition #{num1} + #{num2}
 return addition
 end
 
