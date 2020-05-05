@@ -1,7 +1,5 @@
 def addition(num1, num2)
-addition = "#{num1} + #{num2}"
-puts addition
-return addition
+puts "num1 + num2"
 end
 
 def subtraction(num1, num2)
